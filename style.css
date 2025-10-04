@@ -1,0 +1,50 @@
+
+body{
+    font-family: monospace;
+    padding-top: 70px;
+
+
+}
+
+
+#navegacao {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #1e1e2f;
+  padding: 15px 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  font-size: 20px;
+}
+
+#tipos {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 880px;
+}
+
+#tipos li a {
+  color: white;
+  text-decoration: none;
+}
+
+#tipos li a:hover {
+  color: #00aaff;
+}
+
+#logo {
+  color:black;
+  background-color: rgb(14, 81, 147);
+
+}
+
+#EconomicHost{
+
+    text-align: center;
+}
